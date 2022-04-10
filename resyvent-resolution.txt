@@ -1,4 +1,6 @@
 Resyvent Resolution
+- Create Business Process
+- Create Ui/Ux Design
 - Create Backend to send Data
 - Create Frontend to receive Data
 - Create Server to manage transaction
