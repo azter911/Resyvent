@@ -1,0 +1,5 @@
+Resyvent Resolution
+- Create Backend to send Data
+- Create Frontend to receive Data
+- Create Server to manage transaction
+- Create Mobile to receive data mobile transaction
